@@ -1,16 +1,29 @@
-# React + Vite
+# Sistema de Cadastro de Alunos — Allp Fit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Sobre o projeto
+Aplicação front-end desenvolvida com React e JavaScript, inspirada nas atividades que realizei durante minha experiência profissional na Allp Fit, onde trabalhei com desenvolvimento de interfaces web e formulários.
 
-Currently, two official plugins are available:
+O projeto consiste em um painel administrativo para controle interno de alunos de academia, com funcionalidades de cadastro, validação de dados e gerenciamento de registros.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Funcionalidades
+- **Cadastro e edição de alunos** para controle interno dos administradores.
+- **Validação de formulários** utilizando React Hook Form e Zod.
+- **Listagem, busca e filtragem** de alunos.
+- **Controle de status** dos alunos (ativo/inativo).
+- **Indicadores mensais** de novas matrículas e cancelamentos.
+- **Persistência local** dos dados no navegador.
+- **Interface responsiva** para diferentes tamanhos de tela.
 
-## React Compiler
+## 🛠️ Tecnologias utilizadas
+- React
+- JavaScript
+- React Hook Form
+- Zod
+- CSS
+- Git e GitHub
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🎯 Objetivo
+Reforçar e demonstrar conhecimentos em desenvolvimento front-end, aplicando conceitos de componentização, validação de formulários, gerenciamento de estado e construção de interfaces web responsivas.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚠️ Observação
+Este projeto é uma implementação independente para fins de portfólio, baseado nas atividades de desenvolvimento front-end realizadas durante minha experiência profissional. Não corresponde ao sistema original da empresa e não utiliza código proprietário ou dados internos.
